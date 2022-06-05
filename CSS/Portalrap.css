@@ -1,0 +1,138 @@
+body{
+    background-color: rgba(0, 0, 0, 0.945);
+    color: red;
+}
+
+/*Cabeçalho*/
+
+.logo img{
+    width: 150px;
+    padding: 15px;
+    margin-left: 0px;
+    
+}
+
+
+.menu-header a{
+    display: inline;
+    text-decoration: none; 
+    padding: 3px;
+    color: white;
+}
+
+.menu-header nav{
+    margin-left: 120px;
+    
+}
+
+.menu-header{
+    text-align: center;
+    padding-top: 25px;
+
+}
+
+
+
+#botao-de-pesquisa{
+    padding-top: 25px;
+}
+
+
+/*Carrosel*/
+
+.row-carossel p{
+    display: block;
+    color: white;
+    padding: 0,5px;
+}
+
+.row-carossel p b{
+    color: red;
+}
+
+
+
+
+
+
+
+/* Formatação da area de Cards*/
+.titulo-cards{
+    padding: 15px;
+    text-align: center;
+}
+
+.row-cards img{
+    width: 100%;
+}
+
+
+.artistas{
+    background-color: bisque;
+    padding: 10px;
+    margin: auto;
+    
+}
+.texto{
+    padding: 10px;
+    color: black;
+}
+
+
+/* Entrevistas*/
+
+
+
+
+
+/* Tweets da galera*/
+
+
+
+
+.heading img{
+    width: 15%;
+}
+
+.row-comentários p{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+/*Últimas notícias*/
+
+.section-noticias h3{
+    padding-left: 105px;
+}
+.noticias img{
+    width: 45%;
+
+}
+
+
+
+
+
+#blog{
+    background-color: rgba(255, 255, 255, 0.925);
+    color: black;
+}
+
+
+/* footer */
+
+footer{
+    text-align: center;
+    background-color: black;
+    border: 20px solid red;
+    color: white;
+    font-size: medium;
+    padding-top: 10px;
+}
